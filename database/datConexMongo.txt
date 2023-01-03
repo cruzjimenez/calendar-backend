@@ -1,0 +1,7 @@
+db user: mern_user
+db pass: muFuXVtJ8zX6NcSc
+db connect: DB_CNN=mongodb+srv://mern_user:muFuXVtJ8zX6NcSc@calendardb.den0dl1.mongodb.net/?retryWrites=true&w=majority
+//otro
+db user: cruz
+db pass: AcXHocDwL5N2EthY
+db connect: DB_CNN=mongodb+srv://cruz:AcXHocDwL5N2EthY@calendardb.den0dl1.mongodb.net/?retryWrites=true&w=majority
